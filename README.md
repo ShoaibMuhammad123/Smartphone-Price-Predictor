@@ -12,7 +12,7 @@ The trained model achieves an R² score of **0.89 (89%)**, indicating strong pre
 ## **Screenshots**  
 Here’s a preview of the interactive interface:  
 
-![Project Screenshot](images/smartphSone_price_predictor.png)
+![Project Screenshot](images/smartphone_price_predictor.png)
 
 
 ### Tools & Techniques Used
